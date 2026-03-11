@@ -71,7 +71,7 @@ This allows users to interactively explore the sales data.
 ## Key Insights
 
 - Laptop and Phone products generate the highest revenue.
-- East and South regions contribute the largest share of total sales.
+- North and South regions contribute the largest share of total sales.
 - Sales show monthly fluctuations indicating seasonal demand.
 - Electronics products contribute the majority of overall profit.
 
@@ -84,3 +84,4 @@ This allows users to interactively explore the sales data.
 ---
 
 ## Project Structure
+
